@@ -8,3 +8,5 @@ Press SPACEBAR to start.
 Press LEFT and RIGHT arrows to move the paddle.
 
 Press ESCAPE button to pause/unpause the game. 
+
+[PLAY THE GAME!](https://alicja-malinowska.github.io/Tile-destroyer-game/)
